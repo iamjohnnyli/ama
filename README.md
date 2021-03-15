@@ -5,7 +5,7 @@
 <a href="https://github.com/iamjohnnyli/ama/issues/new" style="color:#fff;"><div style="display:block; background:#5593C7; margin-bottom:20px; float:left"> <p style="margin: 20px 20px 20px 20px;">Ask a question</p>
 </div> </a>
 <a href="https://github.com/iamjohnnyli/ama/issues?q=is%3Aissue">
-<div style="display:block; padding: 10px 10px 10px 10px; background:#31C4F3; color:#fff;margin-bottom:20px; margin-left:20px; float:left"> <p style="margin: 10px 10px 10px 10px;">Read all question</p> 
+<div style="display:block; padding: 10px 10px 10px 10px; background:#31C4F3; color:#fff;margin-bottom:20px; margin-left:20px; float:left"> <p style="margin: 10px 10px 10px 10px;">Read all questions</p> 
 </div></a>
 <div style="clear:both;"></div>
 
