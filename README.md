@@ -5,6 +5,7 @@ This repo is for you to ask any questions for me. Anything means *anything*: wor
 - 📧[Ask a question](https://github.com/iamjohnnyli/ama/issues/new)
 - 📔[Read all questions](https://github.com/iamjohnnyli/ama/issues?q=is%3Aissue)
 
+</br>
 
 **Guidelines:**
  - Ensure your question has not already been answered.
