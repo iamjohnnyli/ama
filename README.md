@@ -1,15 +1,9 @@
 
-# 👍 Ask Me Anything!
+## 👍 Ask Me Anything!
+This repo is for you to ask any questions for me. Anything means *anything*: work, life, code, cooking, traveling, anything! :smiley: 
 
-
-<a href="https://github.com/iamjohnnyli/ama/issues/new" style="color:#fff;"><div style="display:block; background:#5593C7; margin-bottom:20px; float:left"> <p style="margin: 20px 20px 20px 20px;">Ask a question</p>
-</div> </a>
-<a href="https://github.com/iamjohnnyli/ama/issues?q=is%3Aissue">
-<div style="display:block; padding: 10px 10px 10px 10px; background:#31C4F3; color:#fff;margin-bottom:20px; margin-left:20px; float:left"> <p style="margin: 10px 10px 10px 10px;">Read all question</p> 
-</div></a>
-<div style="clear:both;"></div>
-
-Anything means *anything*: work, life, code, cooking, traveling, anything! :smiley: 
+- 📧[Ask a question](https://github.com/iamjohnnyli/ama/issues/new)
+- 📔[Read all questions](https://github.com/iamjohnnyli/ama/issues?q=is%3Aissue)
 
 
 **Guidelines:**
@@ -20,7 +14,7 @@ Anything means *anything*: work, life, code, cooking, traveling, anything! :smil
 
 
 
-[Ask Me Anything In Chinese / 中文 :cn:](https://github.com/iamjohnnyli/ama.cn).
+[Ask Me Anything In Chinese / 中文 :cn:](https://github.com/iamjohnnyli/ama.cn).  
 [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
 
